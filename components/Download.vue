@@ -22,7 +22,11 @@
         >
           <Taxon
             name="Phylum-level"
-            :choices="tree.children.map((x) => x.name)"
+            :choices="
+              tree.children
+                .map((x) => x.name)
+                .filter((x) => !x.startsWith('RiboV1'))
+            "
             :current-choice="phylum"
             @change="onChange('phylum', $event)"
           ></Taxon>
@@ -117,8 +121,8 @@
 </template>
 <script lang="ts">
 import Vue from 'vue'
-import tree from '~/treeV1.2.json'
-import stats from '~/statsV1.2.json'
+import tree from '~/treeV1.4.json'
+import stats from '~/statsV1.4.json'
 
 interface Node {
   name: string
@@ -168,7 +172,7 @@ export default Vue.extend({
     },
     /** Note: the downloadUrl mustn't end in a / or else the split for the zip link won't work */
     downloadUrl(): string {
-      return `https://portal.nersc.gov/dna/microbial/prokpubs/Riboviria/RiboV1.1${
+      return `https://portal.nersc.gov/dna/microbial/prokpubs/Riboviria/RiboV1.4${
         this.phylum ? '/' + this.phylum : ''
       }${this.Class ? '/' + this.Class : ''}${
         this.order ? '/' + this.order : ''
@@ -177,7 +181,7 @@ export default Vue.extend({
     sequences(): number {
       // find the taxon to get the number of sequences
       const taxon = [
-        'RiboV1.1',
+        'RiboV1.4',
         this.phylum,
         this.Class,
         this.order,

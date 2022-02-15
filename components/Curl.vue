@@ -136,7 +136,7 @@ export default Vue.extend({
     command(): string {
       const urls = []
       const extension = {
-        Sequences: '_Contigs.fasta.gzip',
+        Sequences: '_Contigs.fasta.gz',
         Metadata: '_Info.tsv',
         Annotations: '_HMMatches.tsv',
         Tree: '_subtree.newick',
