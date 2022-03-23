@@ -27,9 +27,9 @@ If you want to cite this dataset, please use the following citation:
 
 The code for the discovery pipeline, analysis, and website is available on <a href="#" target="_blank">GitHub</a>. All code for the project is open source and under the GPL-3.0 license.
 
-#### Are there restrictions on using the data?'
+#### Are there restrictions on using the data?
 
-Yes. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+No. We just ask that you cite the paper describing this dataset if you use it in your own work and/or publication.
 
 #### What's the data format?
 
