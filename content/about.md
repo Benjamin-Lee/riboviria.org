@@ -50,6 +50,96 @@ If you aren't familiar with the command line, you can uncompress it using a prog
 
 The RVMT team would like to thank the following people for their contributions:
 
-- XXX
-- XXX
-- XXX
+- Adrienne B. Narrowe
+- Alexander J. Probst
+- Alexander Sczyrba
+- Annegret Kohler
+- Armand Séguin
+- Ashley Shade
+- Barbara J. Campbell
+- Björn D. Lindahl
+- Brandi Kiel Reese
+- Breanna M. Roque
+- Chris DeRito
+- Colin Averill
+- Daniel Cullen
+- David A. C. Beck
+- David A. Walsh
+- David M. Ward
+- Dongying Wu
+- Emiley Eloe-Fadrosh
+- Eoin L. Brodie
+- Erica B. Young
+- Erik A. Lilleskov
+- Federico J. Castillo
+- Francis M. Martin
+- Gary R. LeCleir
+- Graeme T. Attwood
+- Hinsby Cadillo-Quiroz
+- Holly M. Simon
+- Ian Hewson
+- Igor V. Grigoriev
+- James M. Tiedje
+- Janet K. Jansson
+- Janey Lee
+- Jean S. VanderGheynst
+- Jeff Dangl
+- Jeff S. Bowman
+- Jeffrey L. Blanchard
+- Jennifer L. Bowen
+- Jiangbing Xu
+- Jillian F. Banfield
+- Jody W Deming
+- Joel E. Kostka
+- John M. Gladden
+- Josephine Z Rapp
+- Joshua Sharpe
+- Katherine D. McMahon
+- Kathleen K. Treseder
+- Kay D. Bidle
+- Kelly C. Wrighton
+- Kimberlee Thamatrakoln
+- Klaus Nusslein
+- Laura K. Meredith
+- Lucia Ramirez
+- Marc Buee
+- Marcel Huntemann
+- Marina G. Kalyuzhnaya
+- Mark P Waldrop
+- Matthew B Sullivan
+- Matthew O. Schrenk
+- Matthias Hess
+- Michael A. Vega
+- Michelle A. O’Malley
+- Monica Medina
+- Naomi E. Gilbert
+- Nathalie Delherbe
+- Olivia U. Mason
+- Paul Dijkstra
+- Peter F. Chuckran
+- Petr Baldrian
+- Philippe Constant
+- Ramunas Stepanauskas
+- Rebecca A. Daly
+- Regina Lamendella
+- Robert J Gruninger
+- Robert M. McKay
+- Samuel Hylander
+- Sarah L. Lebeis
+- Sarah P Esser
+- Silvia G. Acinas
+- Steven S. Wilhelm
+- Steven W. Singer
+- Susannah S. Tringe
+- Tanja Woyke
+- TBK Reddy
+- Terrence H. Bell
+- Thomas Mock
+- Tim McAllister
+- Vera Thiel
+- Vincent J. Denef
+- Wen-Tso Liu
+- Willm Martens-Habbena
+- Xiao-Jun Allen Liu
+- Zachary S. Cooper
+- Zhong Wang
