@@ -43,7 +43,7 @@ For each taxon, there is also a zip file containing all the files for that taxon
 
 #### How do I extract the sequences from a .fasta.gzip file?
 
-Use the command <`gunzip <file>` in the terminal.
+Use the command `gunzip <file>` in the terminal.
 If you aren't familiar with the command line, you can uncompress it using a program like [7-Zip](https://www.7-zip.org/).
 
 ## Acknowledgements
