@@ -1,6 +1,6 @@
 <template>
   <div
-    class="my-12 px-4 prose prose-sm md:prose prose-green lg:prose-lg mx-auto"
+    class="my-12 px-4 prose md:prose prose-green mx-auto"
   >
     <!-- <TheHeader v-if="page.title">{{ page.title }}</TheHeader> -->
     <nuxt-content :document="page" />
