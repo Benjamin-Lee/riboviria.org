@@ -5,8 +5,8 @@ The user guide provides a brief overview of the data types, access methods, and
 
 ## Download the data set
 
-The data are available from the NERSC's FTP server, as well as Zenodo's permanent archive (DOI:xxx).
-Both methods contain the entiretl
+The data are available from the NERSC's FTP server, as well as Zenodo's permanent archive ([DOI:10.5281/zenodo.6091356](https://doi.org/10.5281/zenodo.6091356)).
+Both methods contain the entire data set.
 
 The FTP server offers the data pre-segmented at each taxonomic level.
 If you want to use a command line, we offer a [cURL generator](/#download) that will generate a command for you to execute.
@@ -40,15 +40,14 @@ For each taxon, there is a directory with the taxon, and within that directory, 
 
 The following data types are included in the data set:
 
-| Type              | Filename                        | Description                                                                                                         |
-| :---------------- | :------------------------------ | :------------------------------------------------------------------------------------------------------------------ |
-| Sequences         | `<taxon>.fasta.gz`              | [Gzipped](https://en.wikipedia.org/wiki/Gzip) [FASTA formatted](https://en.wikipedia.org/wiki/FASTA_format) contigs |
-| Metadata          | `<taxon>_Info.tsv`              | Metadata for each contig, including taxonomic information                                                           |
-| Annotation        | `<taxon>_HMMatches.tsv`         | Protein domain annotation for each contig, derived from [hmmsearch](http://hmmer.org/)                              |
-| Tree              | `<taxon>_Tree.newick`           | Phylogenetic tree for each taxon                                                                                    |
-| IMG Scaffold Cart | `<taxon>_IMG_Scaffold_cart.tsv` | IMG scaffold cart for each taxon                                                                                    |
-| Zip         | `<taxon>.zip`                   | A compressed Zip archive with the files listed above [(ZIP format)](https://en.wikipedia.org/wiki/ZIP_(file_format)).                              |
-
+| Type              | Filename                        | Description                                                                                                             |
+| :---------------- | :------------------------------ | :---------------------------------------------------------------------------------------------------------------------- |
+| Sequences         | `<taxon>.fasta.gz`              | [Gzipped](https://en.wikipedia.org/wiki/Gzip) [FASTA formatted](https://en.wikipedia.org/wiki/FASTA_format) contigs     |
+| Metadata          | `<taxon>_Info.tsv`              | Metadata for each contig, including taxonomic information                                                               |
+| Annotation        | `<taxon>_HMMatches.tsv`         | Protein domain annotation for each contig, derived from [hmmsearch](http://hmmer.org/)                                  |
+| Tree              | `<taxon>_Tree.newick`           | Phylogenetic tree for each taxon                                                                                        |
+| IMG Scaffold Cart | `<taxon>_IMG_Scaffold_cart.tsv` | IMG scaffold cart for each taxon                                                                                        |
+| Zip               | `<taxon>.zip`                   | A compressed Zip archive with the files listed above [(ZIP format)](<https://en.wikipedia.org/wiki/ZIP_(file_format)>). |
 
 All taxa, as well the root, contain each of the above data types. The sole exception is that the root and any taxon that has one member do not contain a tree.
 
@@ -101,11 +100,11 @@ Each of contigs in the available FASTA files are listed as a row in the .tsv fil
 | `Host`          | String  | The host for the node                                                                                   |
 | `Length`        | Integer | The length of the contig                                                                                |
 | `BinID`         | String  | The genome ID for the contig (only relevant for segmented genomes)                                      |
-| `Phylum`        | String  | The phylum for the contig                                                                                 |
-| `Class`         | String  | The class for the contig                                                                                  |
-| `Order`         | String  | The order for the contig                                                                                  |
-| `Family`        | String  | The family for the contig                                                                                 |
-| `Genus`         | String  | The genus for the contig                                                                                  |
+| `Phylum`        | String  | The phylum for the contig                                                                               |
+| `Class`         | String  | The class for the contig                                                                                |
+| `Order`         | String  | The order for the contig                                                                                |
+| `Family`        | String  | The family for the contig                                                                               |
+| `Genus`         | String  | The genus for the contig                                                                                |
 | `ITS.SP.ID`     | String  | ITS sample ID (the unique sample identifier for a contig source)                                        |
 | `Novel`         | Boolean | `FALSE` if the contig is from the "Reference Set". `TRUE` if it's from the IMG metatranscriptomes mined |
 
