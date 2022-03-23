@@ -25,7 +25,7 @@
               v-for="link in links"
               :key="link.href"
               :to="link.href"
-              class="inline-flex items-center px-1 pt-1 border-b-2 text-sm lg:text-base xl:text-lg font-medium border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700"
+              class="inline-flex items-center px-1 pt-1 border-b-2 text-sm lg:text-base font-medium border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700"
             >
               {{ link.name }}
             </NuxtLink>
