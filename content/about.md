@@ -25,7 +25,7 @@ If you want to cite this dataset, please use the following citation:
 
 #### Where can I find the code for the project?
 
-The code for the discovery pipeline, analysis, and website is available on <a href="#" target="_blank">GitHub</a>. All code for the project is open source and under the GPL-3.0 license.
+The code for the discovery pipeline, analysis is [available on GitHub](https://github.com/UriNeri/RVMT). The website's [source code](https://github.com/Benjamin-Lee/riboviria.org) is also available. All code for the project is open source and under the MIT license.
 
 #### Are there restrictions on using the data?
 
