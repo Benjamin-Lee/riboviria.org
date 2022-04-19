@@ -18,7 +18,7 @@
             <p
               class="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl"
             >
-              The RNA Viruses in Metatransciptomes (RVMT) database is a
+              The RNA Viruses in Metatranscriptomes (RVMT) database is a
               comprehensive, open-access dataset of RNA virome data from around
               the world.
             </p>
