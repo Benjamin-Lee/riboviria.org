@@ -11,7 +11,7 @@
               class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl"
             >
               <span class="block"
-                >The RNA Viruses in Metatransciptomes Discovery Project"</span
+                >The RNA Viruses in Metatransciptomes Discovery Project</span
               >
               <!-- <span class="block text-green-500 xl:inline">RNA virome</span> -->
             </h1>
