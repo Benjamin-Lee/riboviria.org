@@ -2,4 +2,4 @@
 
 If you want to cite this dataset, please use the following citation:
 
-> Uri Neri, Yuri I. Wolf, Simon Roux, Antonio Camargo, Benjamin Lee, Darius Kazlauskas, I. Min Chen, Natalia Ivanova, Lisa Zeigler, David Paez-Espino, Donald A. Bryant, Devaki Bhaya, RNA Virus Discovery Consortium, Mart Krupovic, Valerian V. Dolja, Nikos C. Kyrpides, Eugene V. Koonin, Uri Gophna. (2022). A five-fold expansion of the global RNA virome reveals multiple new clades of RNA bacteriophages.
+> Neri U, Wolf YI, Roux S, Camargo AP, Lee B, Kazlauskas D, Chen IM, Ivanova N, Zeigler Allen L, Paez-Espino D, Bryant DA, Bhaya D; RNA Virus Discovery Consortium, Krupovic M, Dolja VV, Kyrpides NC, Koonin EV, Gophna U. Expansion of the global RNA virome reveals diverse clades of bacteriophages. Cell. 2022 Sep 25:S0092-8674(22)01118-7. doi: 10.1016/j.cell.2022.08.023. PMID: 36174579.
