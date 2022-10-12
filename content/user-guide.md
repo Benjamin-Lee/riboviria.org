@@ -170,10 +170,13 @@ A tree is generated for each taxon using the R library castor, by prunning the m
 
 ### RdRps
 
-For simplicity sake, we have added the RdRp sequences and some of the final cluster alignments directly to our FTPs:  
-https://portal.nersc.gov/dna/microbial/prokpubs/Riboviria/RiboV1.4/Alignments/  
-https://ftp.ncbi.nih.gov/pub/wolf/misc/JGI-TAU/  
-Another variation of the RdRps identified is available in the updated Zenodo deposit. If you have any questions, don't hesitate to contact us!
+For simplicity sake, we have added the RdRp sequences and some of the final cluster alignments directly to our FTPs:
+
+- [https://portal.nersc.gov/dna/microbial/prokpubs/Riboviria/RiboV1.4/Alignments/](https://portal.nersc.gov/dna/microbial/prokpubs/Riboviria/RiboV1.4/Alignments/)
+- [https://ftp.ncbi.nih.gov/pub/wolf/misc/JGI-TAU/](https://ftp.ncbi.nih.gov/pub/wolf/misc/JGI-TAU/)
+
+Another variation of the RdRps identified is available in the updated Zenodo deposit.
+If you have any questions, don't hesitate to contact us!
   
 
 #### Example data
