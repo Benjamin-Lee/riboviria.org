@@ -191,6 +191,6 @@ If you need help, please contact the RVMT team. You can find a contact form [her
 
 ## Citing RVMT
 
-The RVMT manuscript hasn't been published yet. We are planning on posting a biorxiv preprint soon. If you use data from the RVMT, please consider citing our work with the following citation:
+The RVMT manuscript was publised in *Cell*. If you use data from the RVMT, please consider citing our work with the following citation:
 
-> Neri U, Wolf YI, Roux S, Camargo AP, Lee B, Kazlauskas D, Chen IM, Ivanova N, Zeigler Allen L, Paez-Espino D, Bryant DA, Bhaya D; RNA Virus Discovery Consortium, Krupovic M, Dolja VV, Kyrpides NC, Koonin EV, Gophna U. Expansion of the global RNA virome reveals diverse clades of bacteriophages. Cell. 2022 Sep 25:S0092-8674(22)01118-7. doi: 10.1016/j.cell.2022.08.023. Epub ahead of print. PMID: 36174579.
+> Neri U, Wolf YI, Roux S, Camargo AP, Lee B, Kazlauskas D, Chen IM, Ivanova N, Zeigler Allen L, Paez-Espino D, Bryant DA, Bhaya D; RNA Virus Discovery Consortium, Krupovic M, Dolja VV, Kyrpides NC, Koonin EV, Gophna U. Expansion of the global RNA virome reveals diverse clades of bacteriophages. Cell. 2022 Sep 25:S0092-8674(22)01118-7. doi:[10.1016/j.cell.2022.08.023](https://doi.org/10.1016/j.cell.2022.08.023).
