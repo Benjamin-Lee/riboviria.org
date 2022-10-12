@@ -5,7 +5,7 @@ The user guide provides a brief overview of the data types, access methods, and
 
 ## Download the data set
 
-The data are available from the NERSC's FTP server, as well as Zenodo's permanent archive ([DOI:10.5281/zenodo.6091356](https://doi.org/10.5281/zenodo.6091356)).
+The data are available from the NERSC's FTP server, as well as Zenodo's permanent archive ([DOI 10.5281/zenodo.6091356](https://doi.org/10.5281/zenodo.6553771)).
 Both methods contain the entire data set.
 
 The FTP server offers the data pre-segmented at each taxonomic level.
@@ -168,6 +168,17 @@ Scaffold ID
 
 A tree is generated for each taxon using the R library castor, by prunning the megatree to tips associcated with each taxa. The trees are [Newick formatted](https://en.wikipedia.org/wiki/Newick_format).
 
+### RdRps
+
+For simplicity sake, we have added the RdRp sequences and some of the final cluster alignments directly to our FTPs:
+
+- [https://portal.nersc.gov/dna/microbial/prokpubs/Riboviria/RiboV1.4/Alignments/](https://portal.nersc.gov/dna/microbial/prokpubs/Riboviria/RiboV1.4/Alignments/)
+- [https://ftp.ncbi.nih.gov/pub/wolf/misc/JGI-TAU/](https://ftp.ncbi.nih.gov/pub/wolf/misc/JGI-TAU/)
+
+Another variation of the RdRps identified is available in the updated Zenodo deposit.
+If you have any questions, don't hesitate to contact us!
+  
+
 #### Example data
 
 ```
@@ -180,6 +191,6 @@ If you need help, please contact the RVMT team. You can find a contact form [her
 
 ## Citing RVMT
 
-The RVMT manuscript hasn't been published yet. We are planning on posting a biorxiv preprint soon. If you use data from the RVMT, please consider citing our work with the following citation:
+The RVMT manuscript was publised in *Cell*. If you use data from the RVMT, please consider citing our work with the following citation:
 
-> Uri Neri, Yuri I. Wolf, Simon Roux, Antonio Camargo, Benjamin Lee, Darius Kazlauskas, I. Min Chen, Natalia Ivanova, Lisa Zeigler, David Paez-Espino, Donald A. Bryant, Devaki Bhaya, RNA Virus Discovery Consortium, Mart Krupovic, Valerian V. Dolja, Nikos C. Kyrpides, Eugene V. Koonin, Uri Gophna. (2022). A five-fold expansion of the global RNA virome reveals multiple new clades of RNA bacteriophages.
+> Neri U, Wolf YI, Roux S, Camargo AP, Lee B, Kazlauskas D, Chen IM, Ivanova N, Zeigler Allen L, Paez-Espino D, Bryant DA, Bhaya D; RNA Virus Discovery Consortium, Krupovic M, Dolja VV, Kyrpides NC, Koonin EV, Gophna U. Expansion of the global RNA virome reveals diverse clades of bacteriophages. Cell. 2022 Sep 25:S0092-8674(22)01118-7. doi:[10.1016/j.cell.2022.08.023](https://doi.org/10.1016/j.cell.2022.08.023).

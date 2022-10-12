@@ -4,9 +4,9 @@
     <div class="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
       <div class="text-center sm:px-16">
         <p class="font-medium text-white">
-          The preprint is out!
+          The paper is out!
           <a
-            href="https://doi.org/10.1101/2022.02.15.480533"
+            href="https://doi.org/10.1016/j.cell.2022.08.023"
             class="text-white font-bold underline"
           >
             Read it now <span aria-hidden="true">&rarr;</span>

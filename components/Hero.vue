@@ -33,11 +33,11 @@
               </div>
               <div class="mt-3 rounded-md sm:mt-0 sm:ml-3">
                 <a
-                  href="https://doi.org/10.1101/2022.02.15.480533"
+                  href="https://www.cell.com/cell/fulltext/S0092-8674(22)01118-7"
                   target="_blank"
                   class="w-full flex items-center justify-center px-8 py-3 border border-gray-300 text-base font-medium rounded-md text-green-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
                 >
-                  Read the preprint
+                  Read the paper!
                 </a>
               </div>
             </div>
