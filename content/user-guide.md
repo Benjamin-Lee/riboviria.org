@@ -5,8 +5,9 @@ The user guide provides a brief overview of the data types, access methods, and
 
 ## Download the data set
 
-The data are available from the NERSC's FTP server, as well as Zenodo's permanent archive ([DOI 10.5281/zenodo.6091356](https://doi.org/10.5281/zenodo.6553771)).
-Both methods contain the entire data set.
+The data are available for download in several methods:  
+- From the NERSC's FTP server, using this site a portal to [download](/#download) specific subsets of the data, by slicing to specific taxonomic lineages.  
+- From the RVMT Zenodo's archive ([DOI 10.5281/zenodo.6091356](https://doi.org/10.5281/zenodo.6091356)). Generally, the Zeonodo deposit is more updated and comprehensive than the download portal.
 
 The FTP server offers the data pre-segmented at each taxonomic level.
 If you want to use a command line, we offer a [cURL generator](/#download) that will generate a command for you to execute.
