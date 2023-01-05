@@ -14,6 +14,8 @@
             All data types&mdash;including sequences, trees, and
             annotations&mdash;are available from the National Energy Research
             Scientific Computing Center.
+            Note - For the latest version, or for types of data not included here, please
+            refer to the RVMT Zenodo's deposit <a href="https://doi.org/10.5281/zenodo.6091356">DOI 10.5281/zenodo.6091356</a> 
           </p>
         </div>
         <!-- Taxon picker -->
